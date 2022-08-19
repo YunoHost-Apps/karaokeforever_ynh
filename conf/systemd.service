@@ -4,10 +4,14 @@ After=network.target
 
 [Service]
 Type=simple
+Environment="__YNH_NODE_LOAD_PATH__"
+Environment="KES_PORT=__PORT__"
+Environment="KES_URL_PATH=__PATH_URL__"
+Environment="KES_PATH_DATA=__FINALPATH__"
 User=__APP__
 Group=__APP__
 WorkingDirectory=__FINALPATH__/
-ExecStart=__FINALPATH__/script
+ExecStart=/bin/sh -c 'node node_modules/karaoke-eternal/server/main.js'
 StandardOutput=append:/var/log/__APP__/__APP__.log
 StandardError=inherit
 
