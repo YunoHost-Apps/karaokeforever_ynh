@@ -1,9 +1,13 @@
-Some long and extensive description of what the app is and does, lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
+ost awesome karaoke parties where everyone can easily find and queue songs from their phone’s browser. The player is also fully browser-based with support for MP3+G, MP4 videos and WebGL visualizations. The server is self-hosted and runs on nearly everything.
 ### Features
 
-- Ut enim ad minim veniam, quis nostrud exercitation ullamco ;
-- Laboris nisi ut aliquip ex ea commodo consequat ;
-- Duis aute irure dolor in reprehenderit in voluptate ;
-- Velit esse cillum dolore eu fugiat nulla pariatur ;
-- Excepteur sint occaecat cupidatat non proident, sunt in culpa."
+
+- Supports:
+   - MP3+G with Winamp/MilkDrop visualizations (WebGL 2)
+   - MP4 videos
+   - ReplayGain tags for volume normalization
+- Fast, modern mobile browser app designed for “karaoke conditions”
+- Multiple simultaneous rooms/queues (optionally password-protected)
+- Dynamic queues keep parties fair, fun and no-fuss
+- Fully self-hosted
+- No ads or telemetry
