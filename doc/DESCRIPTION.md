@@ -1,4 +1,4 @@
-ost awesome karaoke parties where everyone can easily find and queue songs from their phone’s browser. The player is also fully browser-based with support for MP3+G, MP4 videos and WebGL visualizations. The server is self-hosted and runs on nearly everything.
+Host awesome karaoke parties where everyone can easily find and queue songs from their phone’s browser. The player is also fully browser-based with support for MP3+G, MP4 videos and WebGL visualizations. The server is self-hosted and runs on nearly everything.
 ### Features
 
 
