@@ -1,7 +1,7 @@
-SOURCE_URL=url of app's source
-SOURCE_SUM=sha256 checksum
+SOURCE_URL=https://github.com/bhj/KaraokeEternal/archive/refs/tags/v1.0.0.tar.gz
+SOURCE_SUM=29177e5329bef4773ae85ebd5bff33b724117fd62f6542472a480bbb2ad9f199
 SOURCE_SUM_PRG=sha256sum
 SOURCE_FORMAT=tar.gz
 SOURCE_IN_SUBDIR=true
-SOURCE_FILENAME=
+SOURCE_FILENAME=v1.0.0
 SOURCE_EXTRACT=true
